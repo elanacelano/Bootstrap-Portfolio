@@ -1,15 +1,9 @@
- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-
-
 p {
 	font-family: "Poiret One", cursive;
 }
 
 a:hover {
 	color: green;
-}
-
-img{ class="IMG_6823.jpg" 
 }
 
 .heading {
@@ -32,8 +26,9 @@ img{ class="IMG_6823.jpg"
 .search-engine-link:visited {
 	color: black;
 }
-jumbotron {
-	
+.jumbotron { 
+	background-color: blue;
+
 }
 /*
 .heading:hover,
