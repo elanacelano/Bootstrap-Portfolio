@@ -1,0 +1,43 @@
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+
+p {
+	font-family: "Poiret One", cursive;
+}
+
+a:hover {
+	color: green;
+}
+
+img{ class="IMG_6823.jpg" 
+}
+
+.heading {
+	background-color: purple;
+}
+
+.heading:hover {
+	background-color: blue;
+}
+
+.search-engine-link {
+	color: pink;
+}
+.search-engine-link:hover {
+	color: green;
+}
+.search-engine-link:focus {
+	color: red;
+}
+.search-engine-link:visited {
+	color: black;
+}
+jumbotron {
+	
+}
+/*
+.heading:hover,
+.search-engine-link {
+	color: pink;
+}
+*/
